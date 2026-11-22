@@ -1,0 +1,6 @@
+{
+  "name": "PowerForge",
+  "description": "Native Android hardware telemetry, battery optimization inspector, and mobile-only APK build & Realme P4 Power install companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PowerForge</string>
+    <string name="nav_overview">Device</string>
+    <string name="nav_inspector">System</string>
+    <string name="nav_deploy">Deploy</string>
+    <string name="hero_title">Realme &amp; Android Telemetry</string>
+    <string name="hero_subtitle">Live hardware metrics, signature check, and mobile-only APK guide</string>
+    <string name="section_device_identity">Device Identity</string>
+    <string name="section_battery_power">Battery &amp; Power</string>
+    <string name="section_memory_storage">Memory &amp; Storage</string>
+    <string name="section_network">Connectivity</string>
+    <string name="section_build_signature">APK Signature &amp; Build Type</string>
+    <string name="section_battery_optimization">Battery Optimization</string>
+    <string name="section_install_permissions">Chrome &amp; Install Permissions</string>
+    <string name="section_notification_test">Background Notification Test</string>
+    <string name="action_refresh">Refresh Telemetry</string>
+    <string name="action_open_battery_settings">Open Battery Settings</string>
+    <string name="action_open_unknown_sources">Open Install Sources</string>
+    <string name="action_open_app_info">Open App Info</string>
+    <string name="action_send_test_notification">Send Test Notification</string>
+    <string name="action_copy_workflow">Copy Workflow Path</string>
+    <string name="action_reset_checklist">Reset Progress</string>
+    <string name="notif_channel_name">PowerForge Diagnostics</string>
+    <string name="notif_channel_desc">Verifies notification delivery under ColorOS and Android battery rules</string>
+    <string name="notif_test_title">PowerForge Delivery Verified</string>
+    <string name="notif_test_body">Notifications are active on this device. Background alerts are permitted.</string>
+</resources>
